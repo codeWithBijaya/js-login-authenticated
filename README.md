@@ -17,7 +17,7 @@
 <hr>
 <h2>Deployment</h2>
 The web app is deployed using Netlify which is a free web hosting application.<br> 
-Live Link URL :  http//:authenticated-login.netlify.app
+Live Link URL :<a href="https://authenticated-login.netlify.app"></a>
 <hr>
 <br>
 <h2>Contribution</h2>
