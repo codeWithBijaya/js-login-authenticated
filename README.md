@@ -1,6 +1,10 @@
 # JS Login
 <hr>
 ## Authentication and Validation
+
+![image](https://user-images.githubusercontent.com/106948202/180094442-965d950a-2d5e-4df3-a126-4b90cbc29754.png)
+
+
 <hr>
 <h2>Description</h2>
 <hr>
